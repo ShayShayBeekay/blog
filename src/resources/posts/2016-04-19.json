@@ -1,0 +1,24 @@
+{
+"title":  "Introduction to User Experience Design",
+"date":   "2016-04-19 12:00:00 +0000",
+"categories": [ "Misc" ],
+
+"paragraphs":[
+"As you may have gathered from previous posts (or if you've had a gander at my LinkedIn profile), my background is computer science with a penchant for web design and web application development... so I like to think that User Experience is of importance to me.",
+"I've had this post sitting on my To-Do list for a while now. Specifically, since about mid-December when I attended a foundation course in UI/UX hosted by UX Training in the Irish Computer Society in Ballsbridge. The course covered, and therefore this post will also cover some of the basics of good user experience and user interaction.",
+"To define the subject matter briefly: User Experience encompasses everything that affects a user’s behaviour and interaction with a product or service. Simply put, it’s about how a person feels, understands, and perceives a product or service. There is probably an Oxford-esque definition I could throw in there, but #effort.",
+"For many familiar with the term, it tends to be confused with aesthetics of a product. However, UX Design largely deals with with the psychology and behaviour of people rather than focusing just on visual or technical aspects of the given product or service",
+"UX can be considered an umbrella term, comprising of four key areas:\n\t- Information architecture\n\t- Interaction design\n\t- Visual design\n\t- User research\nWhen someone refers to themselves as UX designers, it usually means they have a good understanding of all the four disciplines and are experts at probably a couple of them",
+"So now that we've answered the question of who are our UX designers, it seems fitting to talk a little about what exactly these people do.",
+"In short, it really depends on the needs of the project, and in which of the key areas the UX designers strengths lie. Depending on the designer, these tasks may include: \n- Storytelling\\n\\t- Diary studies\n\t- Prototyping using tools such as Marvel (great app, highly recommend), HTML & CSS\n\t- Concept design using tools such as Photoshop.\n\t- Designing interactive wireframes\n\t- A/B Testing on potential end-users\n\t- Field research and analysis similar products in the marketplace\nThe list above is by no means complete, as the tasks necessary will undoubtedly vary from project to project.",
+"Next to address a very much non-trival misconception surrounding UX Design..",
+"UX Design is about indentifying a problem, and finding a solution.. this process will most-likely involve elements of graphic design but this is only a small piece of the puzzle. The aim of UX is to improve the over experience and usability of a product, not just its aesthetics and making it look pretty (this is also important though!) ",
+"Another misconception is that UX Design is all about the users. Although a quintessential aspect of UX Design involves learning and observing user’s behaviour, its main aim is to shore the gaps between business and consumers. Without understanding users, a business cannot tailor products to suit their target audience.",
+"Involving user experience designers largely improves the product development cycle by getting designers, developers and other stakeholders on a shared path at a very early stage.",
+"A last rumour to dispel.. UX Design is a quick-fix. This is by no means true.",
+"Like a lot of other issues that come up in a product's development lifecycle, the earlier UX issues the less expensive and/or detrimental their impact. Involving a UX designer right before launching the product will more than likely dig up a myriad of unbudgeted for problems rather than fixing last-minute issues swiftly.",
+"In an ideal world, UX designers would be a part of most projects from inception. Every website, app, software and product design realistically requires in-depth research, benchmarking, usability analysis and a good understanding of the potential target-market prior to development, a need that in too many cases goes unfulfilled."],
+
+"closing":"If you’ve any comments/additions/suggestions to this post or any others I’ve written, feel free to comment and/or tweet me @shay_nanigans"
+
+}
